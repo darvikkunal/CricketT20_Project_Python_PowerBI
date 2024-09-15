@@ -27,6 +27,8 @@ Dashboards were created using Power BI to visualize the players' insights and pe
 - All Rounders
 - Bowling and Batting Performances
 
+![Logo](https://github.com/darvikkunal/BPRange_Project_Python/blob/main/GUI_Image.png)
+
 ## T20 World Cup 2022 Best XI Insights
 The project provides a comprehensive analysis of player performance, allowing for assembling the best XI players team from the T20 World Cup 2022 data.
 
